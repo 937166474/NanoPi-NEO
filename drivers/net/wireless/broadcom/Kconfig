@@ -1,6 +1,6 @@
 config WLAN_VENDOR_BROADCOM
 	bool "Broadcom devices"
-	default y
+	default n
 	---help---
 	  If you have a wireless card belonging to this class, say Y.
 

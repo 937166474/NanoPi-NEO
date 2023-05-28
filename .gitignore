@@ -122,3 +122,9 @@ all.config
 
 # Kdevelop4
 *.kdev4
+
+out/
+
+build.log
+
+compile_commands.json
